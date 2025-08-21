@@ -10,7 +10,7 @@
 **The Ultimate Solana Token Lifecycle Management SDK**  
 *Create, Buy, Sell, and Manage Tokens on Heaven.xyz with Lightning Speed*
 
-[![GitHub stars](https://img.shields.io/github/stars/blockyorg/heavenxyz-sdk-bundler?style=social)](https://github.com/blockyorg/heavenxyz-sdk-bundler)
+[![GitHub stars](https://img.shields.io/github/stars/blocky-org/heavenxyz-sdk-bundler?style=social)](https://github.com/blocky-org/heavenxyz-sdk-bundler)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blocky_sol)
 
 </div>
@@ -87,7 +87,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/blockyorg/heavenxyz-sdk-bundler.git
+git clone https://github.com/blocky-org/heavenxyz-sdk-bundler.git
 cd heavenxyz-sdk-bundler
 
 # Install dependencies
@@ -235,8 +235,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 📞 Contact
 - **Telegram**: [@blocky_sol](https://t.me/blocky_sol)
-- **GitHub Issues**: [Report a bug](https://github.com/blockyorg/heavenxyz-sdk-bundler/issues)
-- **Discussions**: [Join the conversation](https://github.com/blockyorg/heavenxyz-sdk-bundler/discussions)
+- **GitHub Issues**: [Report a bug](https://github.com/blocky-org/heavenxyz-sdk-bundler/issues)
+- **Discussions**: [Join the conversation](https://github.com/blocky-org/heavenxyz-sdk-bundler/discussions)
 
 ### 🔗 Useful Links
 - [Heaven.xyz Documentation](https://docs.heaven.xyz)
@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=blockyorg/heavenxyz-sdk-bundler&type=Date)](https://star-history.com/#blockyorg/heavenxyz-sdk-bundler&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=blocky-org/heavenxyz-sdk-bundler&type=Date)](https://star-history.com/#blocky-org/heavenxyz-sdk-bundler&Date)
 
 ---
 
