@@ -189,6 +189,9 @@ yarn ob              # Code obfuscation
 
 ## 🔍 Transaction Examples
 
+### Launch Transaction
+[View on Solscan](https://solscan.io/tx/3DT75WmqQsexqJ1NfekCpBPyzAkScFbPSAd8rmTQNpzLp78cGTwxAUamxeejN27fY1axB3pzBZdEijyRv1cbrSFo)
+
 ### Buy Transaction
 [View on Solscan](https://solscan.io/tx/xqzraJBF3YAfCMdDhG5JCqKf3exmyEfiiyya7r8HFNktT9hQuzv9k9xQZuvQGFgvn1rtdTSkfYqVSuqWkS2xHnH)
 
